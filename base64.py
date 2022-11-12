@@ -1,6 +1,9 @@
+# python3
+# code for encode and decode text with base64
+
 import base64
 
-print("coded by 3oraqi")
+print(" https://t.me/+qIcOhFZmtWNkOTQy ")
 while True :
     num = input("""
     
